@@ -11,5 +11,3 @@ module.exports = {
   subtrair
 };
 
-// SIMULAÇÃO DE VAZAMENTO DE SEGREDO
-api_key = "AKIAIOSFODNN7EXAMPLE1234567890abcdef";
